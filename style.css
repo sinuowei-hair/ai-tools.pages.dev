@@ -1,0 +1,19 @@
+body{
+font-family:Arial;
+background:#f4f4f4;
+text-align:center;
+padding:40px;
+}
+
+.tools a{
+display:block;
+margin:15px;
+padding:15px;
+background:#007bff;
+color:white;
+text-decoration:none;
+border-radius:6px;
+width:250px;
+margin-left:auto;
+margin-right:auto;
+}
